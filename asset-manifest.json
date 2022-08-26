@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https://github.com/narender484/react-personal-website.git/static/css/main.9a76f742.css",
-    "main.js": "/https://github.com/narender484/react-personal-website.git/static/js/main.35b8d4bc.js",
-    "static/media/me-about.jpg": "/https://github.com/narender484/react-personal-website.git/static/media/me-about.a8db4c0b5577308ad5aa.jpg",
-    "static/media/me.jpg": "/https://github.com/narender484/react-personal-website.git/static/media/me.a8db4c0b5577308ad5aa.jpg",
-    "static/media/portfolio6.png": "/https://github.com/narender484/react-personal-website.git/static/media/portfolio6.e15d30f65ece6ba8bd95.png",
-    "static/media/portfolio3.png": "/https://github.com/narender484/react-personal-website.git/static/media/portfolio3.3cc303f486c4365bae1e.png",
-    "static/media/portfolio5.png": "/https://github.com/narender484/react-personal-website.git/static/media/portfolio5.e8fcf68e823f5ce45dfd.png",
-    "static/media/portfolio4.png": "/https://github.com/narender484/react-personal-website.git/static/media/portfolio4.7a84b1b78da402c24cea.png",
-    "static/media/portfolio2.png": "/https://github.com/narender484/react-personal-website.git/static/media/portfolio2.91736eb13df7284b8a35.png",
-    "static/media/Narender Reddy Resume.doc": "/https://github.com/narender484/react-personal-website.git/static/media/Narender Reddy Resume.81ff425482b2c2e5a804.doc",
-    "index.html": "/https://github.com/narender484/react-personal-website.git/index.html",
-    "main.9a76f742.css.map": "/https://github.com/narender484/react-personal-website.git/static/css/main.9a76f742.css.map",
-    "main.35b8d4bc.js.map": "/https://github.com/narender484/react-personal-website.git/static/js/main.35b8d4bc.js.map"
+    "main.css": "/react-personal-website/static/css/main.9a76f742.css",
+    "main.js": "/react-personal-website/static/js/main.11a1a41b.js",
+    "static/media/me-about.jpg": "/react-personal-website/static/media/me-about.a8db4c0b5577308ad5aa.jpg",
+    "static/media/me.jpg": "/react-personal-website/static/media/me.a8db4c0b5577308ad5aa.jpg",
+    "static/media/portfolio6.png": "/react-personal-website/static/media/portfolio6.e15d30f65ece6ba8bd95.png",
+    "static/media/portfolio3.png": "/react-personal-website/static/media/portfolio3.3cc303f486c4365bae1e.png",
+    "static/media/portfolio5.png": "/react-personal-website/static/media/portfolio5.e8fcf68e823f5ce45dfd.png",
+    "static/media/portfolio4.png": "/react-personal-website/static/media/portfolio4.7a84b1b78da402c24cea.png",
+    "static/media/portfolio2.png": "/react-personal-website/static/media/portfolio2.91736eb13df7284b8a35.png",
+    "static/media/Narender Reddy Resume.doc": "/react-personal-website/static/media/Narender Reddy Resume.81ff425482b2c2e5a804.doc",
+    "index.html": "/react-personal-website/index.html",
+    "main.9a76f742.css.map": "/react-personal-website/static/css/main.9a76f742.css.map",
+    "main.11a1a41b.js.map": "/react-personal-website/static/js/main.11a1a41b.js.map"
   },
   "entrypoints": [
     "static/css/main.9a76f742.css",
-    "static/js/main.35b8d4bc.js"
+    "static/js/main.11a1a41b.js"
   ]
 }
